@@ -1,0 +1,5 @@
+D:\Documentos\Visual Studio 2015\Projects\OperativosNumerales\OperativosNumerales\bin\Debug\OperativosNumerales.exe.config
+D:\Documentos\Visual Studio 2015\Projects\OperativosNumerales\OperativosNumerales\bin\Debug\OperativosNumerales.exe
+D:\Documentos\Visual Studio 2015\Projects\OperativosNumerales\OperativosNumerales\bin\Debug\OperativosNumerales.pdb
+D:\Documentos\Visual Studio 2015\Projects\OperativosNumerales\OperativosNumerales\obj\Debug\OperativosNumerales.exe
+D:\Documentos\Visual Studio 2015\Projects\OperativosNumerales\OperativosNumerales\obj\Debug\OperativosNumerales.pdb
