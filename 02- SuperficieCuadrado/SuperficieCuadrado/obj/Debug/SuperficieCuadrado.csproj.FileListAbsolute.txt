@@ -1,0 +1,5 @@
+D:\Documentos\Visual Studio 2015\Projects\SuperficieCuadrado\SuperficieCuadrado\bin\Debug\SuperficieCuadrado.exe.config
+D:\Documentos\Visual Studio 2015\Projects\SuperficieCuadrado\SuperficieCuadrado\bin\Debug\SuperficieCuadrado.exe
+D:\Documentos\Visual Studio 2015\Projects\SuperficieCuadrado\SuperficieCuadrado\bin\Debug\SuperficieCuadrado.pdb
+D:\Documentos\Visual Studio 2015\Projects\SuperficieCuadrado\SuperficieCuadrado\obj\Debug\SuperficieCuadrado.exe
+D:\Documentos\Visual Studio 2015\Projects\SuperficieCuadrado\SuperficieCuadrado\obj\Debug\SuperficieCuadrado.pdb
