@@ -1,0 +1,6 @@
+D:\Documentos\Visual Studio 2015\Projects\CalculaSueldo\CalculaSueldo\bin\Debug\CalculaSueldo.exe.config
+D:\Documentos\Visual Studio 2015\Projects\CalculaSueldo\CalculaSueldo\bin\Debug\CalculaSueldo.exe
+D:\Documentos\Visual Studio 2015\Projects\CalculaSueldo\CalculaSueldo\bin\Debug\CalculaSueldo.pdb
+D:\Documentos\Visual Studio 2015\Projects\CalculaSueldo\CalculaSueldo\obj\Debug\CalculaSueldo.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\CalculaSueldo\CalculaSueldo\obj\Debug\CalculaSueldo.exe
+D:\Documentos\Visual Studio 2015\Projects\CalculaSueldo\CalculaSueldo\obj\Debug\CalculaSueldo.pdb
