@@ -1,0 +1,5 @@
+D:\Documentos\Visual Studio 2015\Projects\ConstructorModo1\ConstructorModo1\bin\Debug\ConstructorModo1.exe.config
+D:\Documentos\Visual Studio 2015\Projects\ConstructorModo1\ConstructorModo1\bin\Debug\ConstructorModo1.exe
+D:\Documentos\Visual Studio 2015\Projects\ConstructorModo1\ConstructorModo1\bin\Debug\ConstructorModo1.pdb
+D:\Documentos\Visual Studio 2015\Projects\ConstructorModo1\ConstructorModo1\obj\Debug\ConstructorModo1.exe
+D:\Documentos\Visual Studio 2015\Projects\ConstructorModo1\ConstructorModo1\obj\Debug\ConstructorModo1.pdb
