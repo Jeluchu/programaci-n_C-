@@ -1,0 +1,5 @@
+D:\Documentos\Visual Studio 2015\Projects\MayorMenor\MayorMenor\bin\Debug\MayorMenor.exe.config
+D:\Documentos\Visual Studio 2015\Projects\MayorMenor\MayorMenor\bin\Debug\MayorMenor.exe
+D:\Documentos\Visual Studio 2015\Projects\MayorMenor\MayorMenor\bin\Debug\MayorMenor.pdb
+D:\Documentos\Visual Studio 2015\Projects\MayorMenor\MayorMenor\obj\Debug\MayorMenor.exe
+D:\Documentos\Visual Studio 2015\Projects\MayorMenor\MayorMenor\obj\Debug\MayorMenor.pdb
