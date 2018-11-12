@@ -1,0 +1,5 @@
+D:\Documentos\Visual Studio 2015\Projects\ImpuestosPrestamos\ImpuestosPrestamos\bin\Debug\ImpuestosPrestamos.exe.config
+D:\Documentos\Visual Studio 2015\Projects\ImpuestosPrestamos\ImpuestosPrestamos\bin\Debug\ImpuestosPrestamos.exe
+D:\Documentos\Visual Studio 2015\Projects\ImpuestosPrestamos\ImpuestosPrestamos\bin\Debug\ImpuestosPrestamos.pdb
+D:\Documentos\Visual Studio 2015\Projects\ImpuestosPrestamos\ImpuestosPrestamos\obj\Debug\ImpuestosPrestamos.exe
+D:\Documentos\Visual Studio 2015\Projects\ImpuestosPrestamos\ImpuestosPrestamos\obj\Debug\ImpuestosPrestamos.pdb
