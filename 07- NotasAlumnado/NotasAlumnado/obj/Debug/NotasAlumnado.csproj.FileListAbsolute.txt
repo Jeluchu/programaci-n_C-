@@ -1,0 +1,5 @@
+D:\Documentos\Visual Studio 2015\Projects\NotasAlumnado\NotasAlumnado\bin\Debug\NotasAlumnado.exe.config
+D:\Documentos\Visual Studio 2015\Projects\NotasAlumnado\NotasAlumnado\bin\Debug\NotasAlumnado.exe
+D:\Documentos\Visual Studio 2015\Projects\NotasAlumnado\NotasAlumnado\bin\Debug\NotasAlumnado.pdb
+D:\Documentos\Visual Studio 2015\Projects\NotasAlumnado\NotasAlumnado\obj\Debug\NotasAlumnado.exe
+D:\Documentos\Visual Studio 2015\Projects\NotasAlumnado\NotasAlumnado\obj\Debug\NotasAlumnado.pdb
