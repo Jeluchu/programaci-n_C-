@@ -1,0 +1,5 @@
+D:\Documentos\Visual Studio 2015\Projects\SumaProductosNumeros\SumaProductosNumeros\bin\Debug\SumaProductosNumeros.exe.config
+D:\Documentos\Visual Studio 2015\Projects\SumaProductosNumeros\SumaProductosNumeros\bin\Debug\SumaProductosNumeros.exe
+D:\Documentos\Visual Studio 2015\Projects\SumaProductosNumeros\SumaProductosNumeros\bin\Debug\SumaProductosNumeros.pdb
+D:\Documentos\Visual Studio 2015\Projects\SumaProductosNumeros\SumaProductosNumeros\obj\Debug\SumaProductosNumeros.exe
+D:\Documentos\Visual Studio 2015\Projects\SumaProductosNumeros\SumaProductosNumeros\obj\Debug\SumaProductosNumeros.pdb
