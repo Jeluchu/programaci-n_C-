@@ -1,0 +1,9 @@
+D:\Documentos\Visual Studio 2015\Projects\Semanal\Semanal\bin\Debug\Semanal.exe.config
+D:\Documentos\Visual Studio 2015\Projects\Semanal\Semanal\bin\Debug\Semanal.exe
+D:\Documentos\Visual Studio 2015\Projects\Semanal\Semanal\bin\Debug\Semanal.pdb
+D:\Documentos\Visual Studio 2015\Projects\Semanal\Semanal\obj\Debug\Semanal.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\Semanal\Semanal\obj\Debug\Semanal.Form1.resources
+D:\Documentos\Visual Studio 2015\Projects\Semanal\Semanal\obj\Debug\Semanal.Properties.Resources.resources
+D:\Documentos\Visual Studio 2015\Projects\Semanal\Semanal\obj\Debug\Semanal.csproj.GenerateResource.Cache
+D:\Documentos\Visual Studio 2015\Projects\Semanal\Semanal\obj\Debug\Semanal.exe
+D:\Documentos\Visual Studio 2015\Projects\Semanal\Semanal\obj\Debug\Semanal.pdb
