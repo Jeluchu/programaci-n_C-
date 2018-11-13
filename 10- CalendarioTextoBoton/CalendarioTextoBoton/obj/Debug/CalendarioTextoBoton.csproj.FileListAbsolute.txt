@@ -1,0 +1,8 @@
+D:\Documentos\Visual Studio 2015\Projects\CalendarioTextoBoton\CalendarioTextoBoton\bin\Debug\CalendarioTextoBoton.exe.config
+D:\Documentos\Visual Studio 2015\Projects\CalendarioTextoBoton\CalendarioTextoBoton\bin\Debug\CalendarioTextoBoton.exe
+D:\Documentos\Visual Studio 2015\Projects\CalendarioTextoBoton\CalendarioTextoBoton\bin\Debug\CalendarioTextoBoton.pdb
+D:\Documentos\Visual Studio 2015\Projects\CalendarioTextoBoton\CalendarioTextoBoton\obj\Debug\CalendarioTextoBoton.Form1.resources
+D:\Documentos\Visual Studio 2015\Projects\CalendarioTextoBoton\CalendarioTextoBoton\obj\Debug\CalendarioTextoBoton.Properties.Resources.resources
+D:\Documentos\Visual Studio 2015\Projects\CalendarioTextoBoton\CalendarioTextoBoton\obj\Debug\CalendarioTextoBoton.csproj.GenerateResource.Cache
+D:\Documentos\Visual Studio 2015\Projects\CalendarioTextoBoton\CalendarioTextoBoton\obj\Debug\CalendarioTextoBoton.exe
+D:\Documentos\Visual Studio 2015\Projects\CalendarioTextoBoton\CalendarioTextoBoton\obj\Debug\CalendarioTextoBoton.pdb
