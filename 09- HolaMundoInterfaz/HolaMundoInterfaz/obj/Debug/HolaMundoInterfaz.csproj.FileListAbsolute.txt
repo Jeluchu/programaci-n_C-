@@ -1,0 +1,9 @@
+D:\Documentos\Visual Studio 2015\Projects\HolaMundoInterfaz\HolaMundoInterfaz\bin\Debug\HolaMundoInterfaz.exe.config
+D:\Documentos\Visual Studio 2015\Projects\HolaMundoInterfaz\HolaMundoInterfaz\bin\Debug\HolaMundoInterfaz.exe
+D:\Documentos\Visual Studio 2015\Projects\HolaMundoInterfaz\HolaMundoInterfaz\bin\Debug\HolaMundoInterfaz.pdb
+D:\Documentos\Visual Studio 2015\Projects\HolaMundoInterfaz\HolaMundoInterfaz\obj\Debug\HolaMundoInterfaz.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\HolaMundoInterfaz\HolaMundoInterfaz\obj\Debug\HolaMundoInterfaz.Form1.resources
+D:\Documentos\Visual Studio 2015\Projects\HolaMundoInterfaz\HolaMundoInterfaz\obj\Debug\HolaMundoInterfaz.Properties.Resources.resources
+D:\Documentos\Visual Studio 2015\Projects\HolaMundoInterfaz\HolaMundoInterfaz\obj\Debug\HolaMundoInterfaz.csproj.GenerateResource.Cache
+D:\Documentos\Visual Studio 2015\Projects\HolaMundoInterfaz\HolaMundoInterfaz\obj\Debug\HolaMundoInterfaz.exe
+D:\Documentos\Visual Studio 2015\Projects\HolaMundoInterfaz\HolaMundoInterfaz\obj\Debug\HolaMundoInterfaz.pdb
