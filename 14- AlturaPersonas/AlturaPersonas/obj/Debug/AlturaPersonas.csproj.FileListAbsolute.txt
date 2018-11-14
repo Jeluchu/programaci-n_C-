@@ -1,0 +1,6 @@
+D:\Documentos\Visual Studio 2015\Projects\AlturaPersonas\AlturaPersonas\bin\Debug\AlturaPersonas.exe.config
+D:\Documentos\Visual Studio 2015\Projects\AlturaPersonas\AlturaPersonas\bin\Debug\AlturaPersonas.exe
+D:\Documentos\Visual Studio 2015\Projects\AlturaPersonas\AlturaPersonas\bin\Debug\AlturaPersonas.pdb
+D:\Documentos\Visual Studio 2015\Projects\AlturaPersonas\AlturaPersonas\obj\Debug\AlturaPersonas.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\AlturaPersonas\AlturaPersonas\obj\Debug\AlturaPersonas.exe
+D:\Documentos\Visual Studio 2015\Projects\AlturaPersonas\AlturaPersonas\obj\Debug\AlturaPersonas.pdb
