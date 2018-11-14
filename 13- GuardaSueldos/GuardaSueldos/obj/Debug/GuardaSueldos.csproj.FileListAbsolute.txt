@@ -1,0 +1,6 @@
+D:\Documentos\Visual Studio 2015\Projects\GuardaSueldos\GuardaSueldos\bin\Debug\GuardaSueldos.exe.config
+D:\Documentos\Visual Studio 2015\Projects\GuardaSueldos\GuardaSueldos\bin\Debug\GuardaSueldos.exe
+D:\Documentos\Visual Studio 2015\Projects\GuardaSueldos\GuardaSueldos\bin\Debug\GuardaSueldos.pdb
+D:\Documentos\Visual Studio 2015\Projects\GuardaSueldos\GuardaSueldos\obj\Debug\GuardaSueldos.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\GuardaSueldos\GuardaSueldos\obj\Debug\GuardaSueldos.exe
+D:\Documentos\Visual Studio 2015\Projects\GuardaSueldos\GuardaSueldos\obj\Debug\GuardaSueldos.pdb
