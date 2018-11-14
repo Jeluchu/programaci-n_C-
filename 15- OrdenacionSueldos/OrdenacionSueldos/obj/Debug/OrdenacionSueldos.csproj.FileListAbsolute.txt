@@ -1,0 +1,6 @@
+D:\Documentos\Visual Studio 2015\Projects\OrdenacionSueldos\OrdenacionSueldos\bin\Debug\OrdenacionSueldos.exe.config
+D:\Documentos\Visual Studio 2015\Projects\OrdenacionSueldos\OrdenacionSueldos\bin\Debug\OrdenacionSueldos.exe
+D:\Documentos\Visual Studio 2015\Projects\OrdenacionSueldos\OrdenacionSueldos\bin\Debug\OrdenacionSueldos.pdb
+D:\Documentos\Visual Studio 2015\Projects\OrdenacionSueldos\OrdenacionSueldos\obj\Debug\OrdenacionSueldos.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\OrdenacionSueldos\OrdenacionSueldos\obj\Debug\OrdenacionSueldos.exe
+D:\Documentos\Visual Studio 2015\Projects\OrdenacionSueldos\OrdenacionSueldos\obj\Debug\OrdenacionSueldos.pdb
