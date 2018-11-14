@@ -8,11 +8,13 @@ namespace GuardaSueldos
 {
     class Program
     {
+        // DECLARACIÓN DEL VECTOR
         private int[] sueldos;
         String lineaLeida;
 
         public void Cargar()
         {
+            // CREACIÓN DEL OBJETO
             sueldos = new int[5];
             for (int i = 0; i < 5; i++)
             {
