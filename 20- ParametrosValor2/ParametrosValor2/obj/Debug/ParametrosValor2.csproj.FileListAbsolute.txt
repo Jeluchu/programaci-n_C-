@@ -1,0 +1,6 @@
+D:\Documentos\Visual Studio 2015\Projects\ParametrosValor2\ParametrosValor2\bin\Debug\ParametrosValor2.exe.config
+D:\Documentos\Visual Studio 2015\Projects\ParametrosValor2\ParametrosValor2\bin\Debug\ParametrosValor2.exe
+D:\Documentos\Visual Studio 2015\Projects\ParametrosValor2\ParametrosValor2\bin\Debug\ParametrosValor2.pdb
+D:\Documentos\Visual Studio 2015\Projects\ParametrosValor2\ParametrosValor2\obj\Debug\ParametrosValor2.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\ParametrosValor2\ParametrosValor2\obj\Debug\ParametrosValor2.exe
+D:\Documentos\Visual Studio 2015\Projects\ParametrosValor2\ParametrosValor2\obj\Debug\ParametrosValor2.pdb
