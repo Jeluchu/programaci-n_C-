@@ -1,0 +1,6 @@
+D:\Documentos\Visual Studio 2015\Projects\ParametroReferenciaOut\ParametroReferenciaOut\bin\Debug\ParametroReferenciaOut.exe.config
+D:\Documentos\Visual Studio 2015\Projects\ParametroReferenciaOut\ParametroReferenciaOut\bin\Debug\ParametroReferenciaOut.exe
+D:\Documentos\Visual Studio 2015\Projects\ParametroReferenciaOut\ParametroReferenciaOut\bin\Debug\ParametroReferenciaOut.pdb
+D:\Documentos\Visual Studio 2015\Projects\ParametroReferenciaOut\ParametroReferenciaOut\obj\Debug\ParametroReferenciaOut.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\ParametroReferenciaOut\ParametroReferenciaOut\obj\Debug\ParametroReferenciaOut.exe
+D:\Documentos\Visual Studio 2015\Projects\ParametroReferenciaOut\ParametroReferenciaOut\obj\Debug\ParametroReferenciaOut.pdb
