@@ -1,0 +1,6 @@
+D:\Documentos\Visual Studio 2015\Projects\RecursividadAnteTodo\RecursividadAnteTodo\bin\Debug\RecursividadAnteTodo.exe.config
+D:\Documentos\Visual Studio 2015\Projects\RecursividadAnteTodo\RecursividadAnteTodo\bin\Debug\RecursividadAnteTodo.exe
+D:\Documentos\Visual Studio 2015\Projects\RecursividadAnteTodo\RecursividadAnteTodo\bin\Debug\RecursividadAnteTodo.pdb
+D:\Documentos\Visual Studio 2015\Projects\RecursividadAnteTodo\RecursividadAnteTodo\obj\Debug\RecursividadAnteTodo.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\RecursividadAnteTodo\RecursividadAnteTodo\obj\Debug\RecursividadAnteTodo.exe
+D:\Documentos\Visual Studio 2015\Projects\RecursividadAnteTodo\RecursividadAnteTodo\obj\Debug\RecursividadAnteTodo.pdb
