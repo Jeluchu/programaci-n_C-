@@ -1,0 +1,6 @@
+D:\Documentos\Visual Studio 2015\Projects\PalabraThis\PalabraThis\bin\Debug\PalabraThis.exe.config
+D:\Documentos\Visual Studio 2015\Projects\PalabraThis\PalabraThis\bin\Debug\PalabraThis.exe
+D:\Documentos\Visual Studio 2015\Projects\PalabraThis\PalabraThis\bin\Debug\PalabraThis.pdb
+D:\Documentos\Visual Studio 2015\Projects\PalabraThis\PalabraThis\obj\Debug\PalabraThis.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\PalabraThis\PalabraThis\obj\Debug\PalabraThis.exe
+D:\Documentos\Visual Studio 2015\Projects\PalabraThis\PalabraThis\obj\Debug\PalabraThis.pdb
