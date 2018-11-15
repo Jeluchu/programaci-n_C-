@@ -1,0 +1,5 @@
+D:\Documentos\Visual Studio 2015\Projects\TraductorNumerico\TraductorNumerico\bin\Debug\TraductorNumerico.exe.config
+D:\Documentos\Visual Studio 2015\Projects\TraductorNumerico\TraductorNumerico\bin\Debug\TraductorNumerico.exe
+D:\Documentos\Visual Studio 2015\Projects\TraductorNumerico\TraductorNumerico\bin\Debug\TraductorNumerico.pdb
+D:\Documentos\Visual Studio 2015\Projects\TraductorNumerico\TraductorNumerico\obj\Debug\TraductorNumerico.exe
+D:\Documentos\Visual Studio 2015\Projects\TraductorNumerico\TraductorNumerico\obj\Debug\TraductorNumerico.pdb
